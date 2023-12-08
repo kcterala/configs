@@ -1,0 +1,8 @@
+manjaro.mpb
+org.intellij.plugins.hcl
+Docker
+gherkin
+com.jetbrains.packagesearch.intellij-plugin
+woaini.liquibase.plugin
+cucumber-java
+izhangzhihao.rainbow.brackets
